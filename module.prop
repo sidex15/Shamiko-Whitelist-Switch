@@ -1,0 +1,6 @@
+id=Shamiko-Whitelist-Switch
+name=Shamiko Whitelist Switch
+version=1.0
+versionCode=1
+author=sidex15
+description=Enable/Disable Shamiko Whitelist Mode without reboot or going through /data/adb/shamiko. Because we're lazy...
